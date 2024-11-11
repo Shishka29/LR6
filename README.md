@@ -17,3 +17,22 @@
 ![Скриншот 7](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 155729.png)
 
 ![Скриншот 8](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 160350.png)
+
+
+## Лог команд
+
+
+git config --global user.name "4319 Левкин М.Д."
+git config --global user.email "msh649018@gmail.com"
+git clone <>
+cd <>
+git add .
+git commit -m ""
+git checkout -b 
+git checkout 
+git log
+git diff
+git checkout master
+git merge 
+git mergetool
+git branch -d 
