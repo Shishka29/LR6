@@ -1,25 +1,31 @@
 # LR6
-## Лабораторная работа №6
+
+## Настройка клиента
+![Скриншот 1](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20125637.png)
+
+## Клонирование репозитория
+![Скриншот 2](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20125820.png)
+
+## Создание файла
+![Скриншот 3](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20130411.png)
+
+## Создание ветки
+![Скриншот 4](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20131210.png)
+
+## Работа с ветками
+![Скриншот 5](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20131319.png)
+
+## Слияние веткок
+![Скриншот 6](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20131957.png)
+
+## Изменение текстового файла
+![Скриншот 7](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20155729.png)
+
+## Откат коммита
+![Скриншот 8](https://github.com/Shishka29/LR6/blob/master/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-05%20160350.png)
 
 
-![Скриншот 1](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 125637.png)
-
-![Скриншот 2](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 125820.png)
-
-![Скриншот 3](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 130411.png)
-
-![Скриншот 4](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 131210.png)
-
-![Скриншот 5](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 131319.png)
-
-![Скриншот 6](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 131957.png)
-
-![Скриншот 7](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 155729.png)
-
-![Скриншот 8](C:\Users\msh64\OneDrive\Рабочий стол\вуз\оп\lab6\LR6\screen\Снимок экрана 2024-11-05 160350.png)
-
-
-## Лог команд
+# Лог команд
 
 
 git config --global user.name "4319 Левкин М.Д."
@@ -37,7 +43,7 @@ git merge
 git mergetool
 git branch -d 
 
-## Получение истории 
+# Получение истории 
 git log --pretty=format:"%h %ad %an %s"
 6a7894f Tue Nov 12 00:10:12 2024 +0300 4319 Левкин М.Д. Лог команд
 b6853a9 Tue Nov 12 00:01:08 2024 +0300 4319 Левкин М.Д. srceen
